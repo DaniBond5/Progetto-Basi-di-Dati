@@ -1,0 +1,22 @@
+body {
+    background-image:url("background-login.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+    height:100vh;
+    background-position:absolute;
+  }
+
+  
+
+  .login-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.7);
+    margin-top: 100px;
+    border-radius: 5px;
+  }
+
+  h1{
+    text-align: center;
+  }
